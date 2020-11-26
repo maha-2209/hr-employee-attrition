@@ -17,12 +17,3 @@ To check out my notebook, please click [here](https://github.com/maha-2209/hr-em
 This is my [personal website](insaid)
 
  1. Adam P Markdown-Cheatsheet [link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
- 2. hELLO, GOODBYE
- 3. TATA
- 
- 
-|  thing|amount  |
-|--|--|
-|  apple|1000
-|  banana|5000
-|  orange|3000
