@@ -1,2 +1,2 @@
 # my-first
-Python machine learning
+Python machine learning project
